@@ -1,0 +1,1 @@
+mosaic(150,'circle');
